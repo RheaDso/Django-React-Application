@@ -1,0 +1,277 @@
+django.utils.autoreload 2023-06-30 11:30:52,067 INFO :: Watching for file changes with StatReloader
+django.utils.autoreload 2023-06-30 11:32:51,884 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:32:52,368 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:32:52,958 WARNING :: WARNING: react2django-backend-settings : logging is active
+django.utils.autoreload 2023-06-30 11:33:29,341 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:33:29,840 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:33:30,459 WARNING :: WARNING: core.views : logging is active
+django.utils.autoreload 2023-06-30 11:34:29,552 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/post/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:34:30,172 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:34:30,862 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:34:30,869 WARNING :: WARNING: core.views : logging is active
+django.utils.autoreload 2023-06-30 11:34:53,828 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/post/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:34:54,315 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:34:54,917 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:34:54,925 WARNING :: WARNING: core.views : logging is active
+django.utils.autoreload 2023-06-30 11:35:08,616 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/post/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:35:09,060 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:35:09,647 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:35:09,654 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:35:35,835 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/post/serializers.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:35:36,310 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:35:36,946 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:35:37,053 WARNING :: WARNING: post.views : logging is active
+root 2023-06-30 11:35:37,053 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:35:48,713 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/post/serializers.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:35:49,154 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:35:49,745 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:35:49,753 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:35:49,754 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:36:24,105 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/serializers.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:36:24,593 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:36:24,713 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:36:25,251 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:36:25,256 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:36:25,257 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:36:30,724 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/serializers.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:36:31,175 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:36:31,296 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 11:36:31,785 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:36:31,790 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:36:31,790 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:39:26,520 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:39:26,988 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:39:27,113 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 11:39:27,612 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:39:27,617 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:39:27,618 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:39:41,324 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:39:41,810 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:39:41,933 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 11:39:42,426 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:39:42,431 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:39:42,432 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:39:53,063 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:39:53,538 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:39:53,656 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 11:39:54,214 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:39:54,224 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:39:54,225 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:40:05,847 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:40:06,307 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:40:06,431 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 11:40:06,938 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:40:06,944 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:40:06,944 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:40:21,698 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:40:22,177 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:40:22,299 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 11:40:22,814 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:40:22,819 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:40:22,820 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:40:55,143 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:40:55,629 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:40:55,753 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 11:40:56,254 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:40:56,258 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:40:56,259 WARNING :: WARNING: post.views : logging is active
+django.utils.autoreload 2023-06-30 11:41:22,439 INFO :: /media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py changed, reloading.
+django.utils.autoreload 2023-06-30 11:41:22,929 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:41:23,049 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 11:41:23,541 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:41:23,545 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:41:23,546 WARNING :: WARNING: post.views : logging is active
+django.request 2023-06-30 11:41:43,563 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:43,563 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:43,638 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:43,638 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:43,836 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:43,836 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:43,976 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:43,976 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:44,112 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:44,112 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:44,305 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:44,305 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:44,693 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:41:44,693 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:42:10,433 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:42:10,433 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:42:10,651 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:42:10,651 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:42:18,841 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:42:18,841 WARNING :: Not Found: /manifest.json
+django.utils.autoreload 2023-06-30 11:46:37,294 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 11:46:37,452 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 11:46:37,939 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 11:46:37,944 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 11:46:37,944 WARNING :: WARNING: post.views : logging is active
+django.request 2023-06-30 11:46:54,462 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:46:54,462 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:46:55,783 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:46:55,783 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:47:47,187 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:47:47,187 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:50:26,162 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:50:26,162 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:50:26,319 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:50:26,319 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:50:26,409 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:50:26,409 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:50:26,575 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 11:50:26,575 WARNING :: Not Found: /manifest.json
+root 2023-06-30 11:56:00,577 WARNING :: core.views : called api predict
+root 2023-06-30 11:56:00,577 WARNING :: core.views : called GET
+root 2023-06-30 11:56:00,775 WARNING :: core.views : called response [[86,151,165], [97,126,140], [84,153,193], [122,159,187], [71,99,120], [92,123,154], [82,148,166], [84,110,120], [94,126,157], [152,182,201] ]
+django.request 2023-06-30 12:04:06,798 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:04:06,798 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:04:08,005 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:04:08,005 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:04:08,321 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:04:08,321 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:04:08,520 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:04:08,520 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:05:37,157 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:05:37,157 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:06:16,578 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:06:16,578 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:06:17,593 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:06:17,593 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:06:17,861 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:06:17,861 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:10:19,339 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:10:19,339 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:10:19,807 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:10:19,807 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:10:20,175 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 12:10:20,175 WARNING :: Not Found: /manifest.json
+django.utils.autoreload 2023-06-30 13:37:42,481 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 13:37:42,715 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 13:37:43,692 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 13:37:43,697 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 13:37:43,698 WARNING :: WARNING: post.views : logging is active
+django.request 2023-06-30 13:37:53,799 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:53,799 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:54,355 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:54,355 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:54,491 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:54,491 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:54,651 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:54,651 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:54,802 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:54,802 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:54,969 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:54,969 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:55,116 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:55,116 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:55,303 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:37:55,303 WARNING :: Not Found: /manifest.json
+django.utils.autoreload 2023-06-30 13:39:29,337 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 13:39:29,443 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 13:39:29,906 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 13:39:29,910 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 13:39:29,910 WARNING :: WARNING: post.views : logging is active
+django.request 2023-06-30 13:39:37,127 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:37,127 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:37,644 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:37,644 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:37,820 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:37,820 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:37,975 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:37,975 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,127 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,127 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,294 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,294 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,431 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,431 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,541 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,541 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,724 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,724 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,900 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:39:38,900 WARNING :: Not Found: /manifest.json
+django.utils.autoreload 2023-06-30 13:42:42,627 INFO :: Watching for file changes with StatReloader
+root 2023-06-30 13:42:42,734 WARNING :: WARNING: core.serializer : logging is active
+root 2023-06-30 13:42:43,207 WARNING :: WARNING: core.views : logging is active
+root 2023-06-30 13:42:43,213 WARNING :: WARNING: post.serializer : logging is active
+root 2023-06-30 13:42:43,213 WARNING :: WARNING: post.views : logging is active
+django.request 2023-06-30 13:43:00,803 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:00,803 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:34,981 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:34,981 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:35,604 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:35,604 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:35,772 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:35,772 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:35,958 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:35,958 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,072 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,072 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,233 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,233 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,382 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,382 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,531 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,531 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,685 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,685 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,841 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,841 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,997 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:36,997 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:37,125 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:37,125 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:37,269 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:37,269 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:37,400 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:43:37,400 WARNING :: Not Found: /manifest.json
+django.request 2023-06-30 13:57:12,897 ERROR :: Internal Server Error: /api-core/create-predict/
+Traceback (most recent call last):
+  File "/home/rhea/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/rhea/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rhea/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/home/rhea/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/rhea/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/rhea/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/rhea/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/rhea/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/rhea/.local/lib/python3.10/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py", line 71, in api_create_predict
+    create_prediction_model()
+TypeError: create_prediction_model() missing 1 required positional argument: 'image_path'
+django.request 2023-06-30 13:57:12,897 ERROR :: Internal Server Error: /api-core/create-predict/
+Traceback (most recent call last):
+  File "/home/rhea/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/rhea/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/rhea/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/home/rhea/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/rhea/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/rhea/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/rhea/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/rhea/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/rhea/.local/lib/python3.10/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/media/rhea/DATA/Rhea/Internship/Ale/MyProject/test3/backend/core/views.py", line 71, in api_create_predict
+    create_prediction_model()
+TypeError: create_prediction_model() missing 1 required positional argument: 'image_path'
+root 2023-06-30 13:57:28,408 WARNING :: core.views : called api predict
+root 2023-06-30 13:57:28,408 WARNING :: core.views : called GET
+root 2023-06-30 13:57:28,426 WARNING :: core.views : called response [[129,156,170], [106,160,193], [147,180,195], [81,100,107], [119,148,162], [105,145,101], [151,180,195], [82,143,174], [130,157,171], [121,150,164] ]
